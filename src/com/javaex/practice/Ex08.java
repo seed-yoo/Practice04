@@ -21,7 +21,6 @@ public class Ex08 {
             System.out.print(ln[i] + "\t");
             
         }
-        
 		
 	}
 
