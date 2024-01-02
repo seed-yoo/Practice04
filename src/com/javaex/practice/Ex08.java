@@ -19,7 +19,9 @@ public class Ex08 {
             ln[i] = rn;
             ns[rn] = true;
             System.out.print(ln[i] + "\t");
+            
         }
+        
 		
 	}
 
